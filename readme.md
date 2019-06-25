@@ -9,6 +9,7 @@
 - [DNS](#dns)
 - [Developers](#developers)
 - [Apps](#apps)
+  - [Open Source](#open-source)
 - [Workers](#workers)
   - [Reference](#reference)
   - [Tools](#tools)
@@ -71,8 +72,12 @@
 - [Apps Directory](https://www.cloudflare.com/apps)
 - [Documentation](https://www.cloudflare.com/apps/developer/docs/getting-started)
 - [Developer Fund](https://www.cloudflare.com/fund)
-- [Open Source Apps](https://github.com/cloudflare-apps)
 - [App Ideas](https://github.com/cloudflare-apps/ideas)
+
+### Open Source
+
+- [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of Official Apps.
+- [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 
 ## Workers
 
