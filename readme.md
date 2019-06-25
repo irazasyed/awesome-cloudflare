@@ -139,6 +139,7 @@
 - [Geographic Routing and Load Balancer](https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900) - Geographic routing and load balancing with workers.
 - [UTM Tag Stripper](https://community.cloudflare.com/t/strip-utm-query-string/47941) - Strip UTM tags in query string.
 - [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect Short URLs.
+- [Repo Hunt](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily.
 
 ## Other
 
