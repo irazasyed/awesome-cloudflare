@@ -140,6 +140,7 @@
 - [UTM Tag Stripper](https://community.cloudflare.com/t/strip-utm-query-string/47941) - Strip UTM tags in query string.
 - [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect Short URLs.
 - [Repo Hunt](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily.
+- [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of Worker scripts, generally focused on performance optimizations.
 
 ## Other
 
