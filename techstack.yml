@@ -1,0 +1,30 @@
+repo_name: irazasyed/awesome-cloudflare
+report_id: 02b01add456780a638b0dd3d0a89d9be
+repo_type: Public
+timestamp: '2023-11-14T06:24:08+00:00'
+requested_by: irazasyed
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: ".travis.yml"
+  last_updated_by: Syed I.R
+  last_updated_on: 2019-06-24 11:20:38.000000000 Z
