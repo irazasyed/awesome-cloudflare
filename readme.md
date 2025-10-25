@@ -102,6 +102,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [R2 Bucket Manager](https://github.com/neverinfamous/R2-Manager-Worker) - Full-featured web app for managing Cloudflare R2 buckets with GitHub SSO via Zero Trust.
 
 ### Recipes
 
