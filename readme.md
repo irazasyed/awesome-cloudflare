@@ -16,6 +16,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
   - [Reference](#reference)
   - [Tools](#tools)
   - [Recipes](#recipes)
+  - [AI](#ai)
 - [Other](#other)
 
 ## Community
@@ -82,10 +83,6 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
 
-### AI
-
-- [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
-
 ## Workers
 
 > [Cloudflare Workers](https://www.cloudflare.com/products/cloudflare-workers) provides a serverless execution environment that allows you to create entirely new applications or augment existing ones without configuring or maintaining infrastructure.
@@ -150,6 +147,10 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+
+### AI
+
+- [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
 
 ## Other
 
