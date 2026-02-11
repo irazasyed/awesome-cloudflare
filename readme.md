@@ -157,6 +157,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Support](https://support.cloudflare.com)
 - [System Status](https://www.cloudflarestatus.com)
 - [Network Map](https://www.cloudflare.com/network)
+- [Absurdity Index](https://absurdityindex.org) - Satirical congressional legislation scoring site on Pages + Workers.
 
 ## Contribute
 
