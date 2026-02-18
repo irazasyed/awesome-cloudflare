@@ -152,6 +152,8 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
 
+- [Redirect Checker](https://github.com/brancogao/redirect-checker) - HTTP redirect chain analyzer with loop detection and performance measurement.
+
 ## Other
 
 - [Support](https://support.cloudflare.com)
