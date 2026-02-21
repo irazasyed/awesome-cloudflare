@@ -101,6 +101,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
 - [Worker App Kit](https://github.com/postlight/cloudflare-worker-app-kit) - Handy set of tools for creating, developing, testing, and deploying worker app.
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
+- [MailCat](https://github.com/apidog/mailcat) - Email service for AI agents. One-prompt setup, auto verification code extraction. Built on Workers + D1 + Email Routing.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
 
