@@ -151,7 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
-- [PageGuard](https://github.com/sleepyxpad-jpg/pageguard) - Free website health scanner built on Workers + D1 + Workers AI. Checks SEO, Performance, Accessibility, and Best Practices with an AI-generated action plan.
+- [PageGuard](https://pageguard.org) - Free website health scanner built on Workers + D1 + Workers AI. Checks SEO, Performance, Accessibility, and Best Practices with an AI-generated action plan.
 
 ## Other
 
