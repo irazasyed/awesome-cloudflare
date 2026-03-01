@@ -103,6 +103,10 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Debug and test webhooks with real-time request inspection.
+- [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Monitor SSL certificate expiry and send alerts.
+- [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) - Check DNS propagation across multiple servers globally.
+- [Redirect Checker](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains and detect loops.
 
 ### Recipes
 
