@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [x402 AI API](https://api.zeroreader.com) - 29 AI models via x402 micropayments on Workers. Pay-per-request with USDC.
 
 ## Other
 
