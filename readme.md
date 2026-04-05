@@ -82,7 +82,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
-- [Beam Analytics](https://beam.keylightdigital.com/) - Privacy-first web analytics built entirely on Cloudflare Workers, D1, and KV. Cookie-free, GDPR compliant, with custom events, goals, and traffic source analysis. Open-source tracking script. ([Demo](https://beam.keylightdigital.com/demo), [Source](https://github.com/scobb/beam.js))
+- [Beam Analytics](https://beam-privacy.com/) - Privacy-first web analytics built entirely on Cloudflare Workers, D1, and KV. Cookie-free, GDPR compliant, with custom events, goals, and traffic source analysis. Open-source tracking script. ([Demo](https://beam-privacy.com/demo), [Source](https://github.com/scobb/beam.js))
 
 ## Workers
 
