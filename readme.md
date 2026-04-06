@@ -152,6 +152,8 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
 
+- [Nexus](https://nexus.keylightdigital.dev/) - Open-source AI agent observability platform built on Workers and D1. Track traces, spans, and errors from autonomous agents. TypeScript SDK. $9/mo Pro.
+
 ## Other
 
 - [Support](https://support.cloudflare.com)
