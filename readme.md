@@ -170,3 +170,5 @@ To the extent possible under law, [Irfaq Syed](https://github.com/irazasyed) has
 related or neighboring rights to this work.
 
 > Cloudflare is a registered trademark of Cloudflare, Inc.
+
+- [AAAA-Nexus](https://aaaa-nexus.atomadictech.workers.dev) - Hosted AI infrastructure on Cloudflare Workers with MCP support, x402 payment flow, and public agent discovery.
