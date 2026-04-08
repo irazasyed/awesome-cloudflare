@@ -171,4 +171,4 @@ related or neighboring rights to this work.
 
 > Cloudflare is a registered trademark of Cloudflare, Inc.
 
-- [Aethel-Nexus AAAA](https://aaaa-nexus.atomadictech.workers.dev) - 22-endpoint AI infrastructure on Cloudflare Workers: streaming CoT inference, Leech lattice compression, AIBOM drift, EU AI Act compliance, agent swarm, quantum RNG. x402 USDC micropayments on Base L2. Google A2A agent card (22 skills) + MCP server.
+- [AAAA-Nexus](https://aaaa-nexus.atomadictech.workers.dev) - Hosted AI infrastructure on Cloudflare Workers with MCP support, x402 payment flow, and public agent discovery.
