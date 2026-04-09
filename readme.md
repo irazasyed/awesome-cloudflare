@@ -147,6 +147,9 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+- [CookieBoss](https://cookieboss.io) - Edge-compiled cookie consent management SaaS built on Workers, D1, and R2 with Google Consent Mode v2.
+- [len.sh](https://len.sh) - Headless rendering API for screenshots, OG images, and PDFs running on Workers with Browser Rendering.
+- [DoStash](https://dostash.com) - Password-protected link and asset collections built on Workers, Pages, D1, and R2.
 
 ### AI
 
