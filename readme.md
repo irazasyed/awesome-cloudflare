@@ -147,6 +147,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+- [ShopSavvy Worker](https://github.com/shopsavvy/cloudflare-worker-shopsavvy) - Product data at the edge — real-time pricing, product search, and price history via a Cloudflare Worker.
 
 ### AI
 
