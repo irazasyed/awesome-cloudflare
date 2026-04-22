@@ -147,6 +147,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+- [ShopSavvy for Hono](https://github.com/shopsavvy/hono-shopsavvy) - Edge-native Hono plugin for product search, real-time pricing, and price history across thousands of retailers. Runs on Workers, Bun, Deno, Node, and Vercel Edge.
 
 ### AI
 
