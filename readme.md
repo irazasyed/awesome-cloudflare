@@ -147,6 +147,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+- [Voidly Worker](https://github.com/voidly-ai) - Reference Worker for E2E encrypted agent-to-agent messaging (Signal Protocol + ML-KEM-768 PQ hybrid) and off-chain agent payments, with D1-backed ledger, federation, SSE streaming, and HMAC webhooks.
 
 ### AI
 
