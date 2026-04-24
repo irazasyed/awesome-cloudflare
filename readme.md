@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [Shirabe](https://shirabe.dev) - Japan-specific AI-native API platform built on Hono + Workers with edge caching. Provides Japanese calendar API (六曜 rokuyo, 暦注 rekichu auspicious days, 24 solar terms) and Address normalization API (ABR-backed, all 47 prefectures, CC BY 4.0). OpenAPI 3.1 specs + MCP server + GPT Actions for direct AI agent consumption. [Calendar repo](https://github.com/techwell-inc-jp/shirabe-calendar-api), [Address repo](https://github.com/techwell-inc-jp/shirabe-address-api).
 
 ## Other
 
