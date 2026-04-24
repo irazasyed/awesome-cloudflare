@@ -147,6 +147,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+- [F1 API](https://github.com/AmiiGood/f1-api) - Free Formula 1 historical data API (1950–present) built on Workers + D1 + R2. Live at [f1api.sweetcode.app](https://f1api.sweetcode.app/docs).
 
 ### AI
 
