@@ -103,6 +103,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React with a built-in Cloudflare Workers adapter — `mandu deploy --to=cloudflare` generates `wrangler.toml` and ships routes, static assets, and edge functions in one command.
 
 ### Recipes
 
