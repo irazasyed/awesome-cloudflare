@@ -150,6 +150,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 ### AI
 
+- [ContextMCP](https://github.com/dodopayments/context-mcp) - Self-hosted Model Context Protocol (MCP) server for documentation, deployed on Workers. Indexes Mintlify, Fumadocs, Docusaurus, Markdown & OpenAPI into Pinecone and serves it to AI assistants (Claude, Cursor, etc.) via MCP and a REST API.
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
 
 ## Other
