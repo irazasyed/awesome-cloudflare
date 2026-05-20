@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare) - Self-hosted persistent AI memory layer for Claude, ChatGPT, and Cursor via MCP, built on Workers, D1, Vectorize, and Workers AI.
 
 ## Other
 
