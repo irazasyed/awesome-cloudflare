@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [Prismix](https://prismix.dev) - All-in-one AI hub on Cloudflare Workers + KV: real-time status of 75+ AI services, curated news from 70+ sources, and 500+ MCP server directory with bundles.
 
 ## Other
 
