@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [Mosoo](https://github.com/langgenius/mosoo) - Agent cloud for building, running, and packaging App-local AI apps.
 
 ## Other
 
