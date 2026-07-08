@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [Seaworthy MCP](https://github.com/seaworthy-io/seaworthy-mcp) - Open MCP server from a disability insurance brokerage; AI agents compare carriers and submit quote requests, on a single Worker with KV.
 
 ## Other
 
