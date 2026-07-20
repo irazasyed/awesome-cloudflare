@@ -103,6 +103,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [baerly-storage](https://github.com/Gusto/baerly-storage) - Document database that runs entirely inside your request handler — no server, no cluster, nothing resident — storing data in an R2/S3 bucket.
 
 ### Recipes
 
