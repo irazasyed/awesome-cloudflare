@@ -81,6 +81,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
+- [MoeMail](https://github.com/beilunyang/moemail-pro) - Temporary email service with disposable inboxes, an OpenAPI and an MCP server, built on Workers, D1, KV and Email Routing.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
 
 ## Workers
