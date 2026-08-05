@@ -82,6 +82,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
+- [FluentStorage](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified polycloud API across 15+ clouds including special support for Cloudflare R2
 
 ## Workers
 
