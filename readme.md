@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [MemHeaven](https://github.com/nazar256/memheaven) - Self-hosted remote MCP memory for ChatGPT and other cloud AI agents.
 
 ## Other
 
