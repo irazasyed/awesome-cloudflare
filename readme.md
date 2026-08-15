@@ -169,4 +169,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 To the extent possible under law, [Irfaq Syed](https://github.com/irazasyed) has waived all copyright and
 related or neighboring rights to this work.
 
+- [Dizyno Panel](https://github.com/MohammadMehdiArjmandManesh1386/claudeflare-dizynopanel) - Modern Cloudflare Workers & Sing-box VPN Panel with Interactive Telegram Bot.
+
 > Cloudflare is a registered trademark of Cloudflare, Inc.
