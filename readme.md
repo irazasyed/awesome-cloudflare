@@ -70,16 +70,20 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 ## Apps
 
-> [Cloudflare Apps](https://www.cloudflare.com/apps/developers) lets you ship your tool or service to millions of sites. Any Cloudflare customer can preview & install your code on their site in seconds.
+> **Note:** Cloudflare Apps, the marketplace that let developers install third-party widgets on any Cloudflare site, has been discontinued. The `cloudflare.com/apps` links below now redirect to the defunct `cloudflareapps.com` and are kept only for historical reference. The modern equivalent is open-source applications you deploy in your own Cloudflare account (Workers / Pages).
 
-- [Apps Directory](https://www.cloudflare.com/apps)
-- [Documentation](https://www.cloudflare.com/apps/developer/docs/getting-started)
-- [Developer Fund](https://www.cloudflare.com/fund)
-- [App Ideas](https://github.com/cloudflare-apps/ideas)
+- [Apps Directory](https://www.cloudflare.com/apps) - *(discontinued — redirects to the defunct cloudflareapps.com)*
+- [Documentation](https://www.cloudflare.com/apps/developer/docs/getting-started) - *(discontinued)*
+- [Developer Fund](https://www.cloudflare.com/fund) - Cloudflare's developer fund (still active).
+- [App Ideas](https://github.com/cloudflare-apps/ideas) - *(archived, 2022)*
+
+### Directories
+
+- [Mandalivia Cloudflare Apps](https://www.mandalivia.com/cloudflare) - Curated directory of open-source applications you can deploy in your own Cloudflare account, browsable by category.
 
 ### Open Source
 
-- [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
+- [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps (archived, 2022).
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
 
