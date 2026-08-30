@@ -82,6 +82,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
+- [Stop the Slop](https://github.com/MauroPello/stop-the-slop) - Open-source AI transcript analyzer and YouTube badges powered by Cloudflare Workers and D1 database.
 
 ## Workers
 
