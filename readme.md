@@ -82,6 +82,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
+- [RepoAccess](https://github.com/EdgeKits/repoaccess-core) - Sells access to private GitHub repos: payment webhooks trigger team invites, refunds and chargebacks revoke them.
 
 ## Workers
 
