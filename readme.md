@@ -80,6 +80,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### Open Source
 
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
+- [CaptionFast](https://github.com/GermanCorrection/tiktok-caption-extractor) - Instant TikTok caption, subtitle & transcript extractor web app and free edge REST API ([Demo](https://captionfast.is-a.dev)).
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
 
