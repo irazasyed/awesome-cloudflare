@@ -65,8 +65,6 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Open Source](https://cloudflare.github.io) - Official open-source projects.
 - [API Docs](https://api.cloudflare.com) - API documentation.
 - [Integration Resources](https://www.cloudflare.com/integrations) - Plugins for content management systems, control panels, cloud providers, ecommerce platforms and more.
-- [Technical Resources](https://www.cloudflare.com/technical-resources) - Technical tools and resources.
-- [The Serverlist Newsletter](https://blog.cloudflare.com/serverlist) - The serverlist is a Cloudflare-curated newsletter about all things serverless.
 
 ## Apps
 
@@ -81,7 +79,6 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
-- [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
 
 ## Workers
 
@@ -90,19 +87,18 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### Reference
 
 - [Documentation](https://workers.cloudflare.com/docs)
-- [Tutorials](https://workers.cloudflare.com/docs/tutorials)
-- [Runtime](https://workers.cloudflare.com/docs/reference/runtime)
-- [Workers KV](https://workers.cloudflare.com/docs/reference/storage)
+- [Tutorials](https://developers.cloudflare.com/workers/tutorials/)
+- [Runtime](https://developers.cloudflare.com/workers/runtime-apis/)
+- [Workers KV](https://developers.cloudflare.com/kv/)
 
 ### Tools
 
 - [Wrangler](https://github.com/cloudflare/wrangler) - `wrangler` is a CLI tool designed for folks who are interested in using Cloudflare workers.
 - [Playground](https://www.cloudflareworkers.com) - Simple, instant way to preview and test code directly in the browser against any site.
-- [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
+- [Serverless Plugin](https://github.com/cloudflare/serverless-cloudflare-workers) - Plugin for [serverless framework](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
 - [Worker App Kit](https://github.com/postlight/cloudflare-worker-app-kit) - Handy set of tools for creating, developing, testing, and deploying worker app.
-- [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
+- [GitHub Action](https://github.com/cloudflare/wrangler-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
-- [Redirect Management](https://forwarding.app) - Generate redirect worker.
 
 ### Recipes
 
@@ -139,7 +135,6 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Bannero](https://github.com/nondanee/bannero) - Bannero image API for simpledesktops.
 - [Hasura](https://github.com/nathanwaters/hasura-cloudflare-worker) - Example using Facebook-based authorization and graphql proxy queries with hasura.
 - [IP Redirects](https://community.cloudflare.com/t/ip-redirects/18285) - Redirect users based on their ip address.
-- [Switch Image to WebP](https://github.com/vidaxl-com/cloudflare_webworkers/blob/master/examples/webp.js) - Reroute image to webp when supported.
 - [Geographic Routing and Load Balancer](https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900) - Geographic routing and load balancing with workers.
 - [UTM Tag Stripper](https://community.cloudflare.com/t/strip-utm-query-string/47941) - Strip UTM tags in query string.
 - [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect short links.
