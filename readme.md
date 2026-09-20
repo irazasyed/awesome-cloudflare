@@ -67,6 +67,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Integration Resources](https://www.cloudflare.com/integrations) - Plugins for content management systems, control panels, cloud providers, ecommerce platforms and more.
 - [Technical Resources](https://www.cloudflare.com/technical-resources) - Technical tools and resources.
 - [The Serverlist Newsletter](https://blog.cloudflare.com/serverlist) - The serverlist is a Cloudflare-curated newsletter about all things serverless.
+- [LabEx Learning Path](https://labex.io/learn/cloudflare) - Hands-on courses covering Workers, storage, AI, stateful applications, operations, and troubleshooting.
 
 ## Apps
 
