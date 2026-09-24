@@ -82,6 +82,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
+- [SyncClipboard CfServer](https://github.com/Leexunhuan743/SyncClipboardCfServer) - Self-hosted clipboard sync server that reimplements the SyncClipboard protocol with Workers, D1, R2 and Durable Objects.
 
 ## Workers
 
