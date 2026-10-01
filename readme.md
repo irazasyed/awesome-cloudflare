@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [Aelios](https://github.com/wusaki0723/Aelios) - Long-term memory gateway for AI clients built on Workers + D1 + Vectorize: one-click self-hosted deploy, conversations consolidated overnight, memory recalled across Chatbox, Claude Code, and Codex. AGPL-3.0.
 
 ## Other
 
