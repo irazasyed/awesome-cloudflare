@@ -58,6 +58,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Detector](https://github.com/k4m4/cloudflare-detect) - Detect whether a site is running behind Cloudflare.
 - [Scrape](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass anti-bot page.
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - Tool to find origin servers of websites protected by CloudFlare who are publicly exposed.
+- [CFMobile](https://github.com/imtaqin/CFMobile) - Open-source Android app to manage zones, DNS records, firewall rules, analytics and Workers from a phone.
 
 ## Developers
 
