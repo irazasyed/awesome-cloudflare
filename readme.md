@@ -103,6 +103,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [AgenticSaaS](https://agenticsaas.flawlesslyhuman.com/) - Paid SvelteKit SaaS starter with D1, R2, authentication, billing and coding-agent documentation; save $100 with LAUNCH100 for the first 100 paid launch licenses.
 
 ### Recipes
 
