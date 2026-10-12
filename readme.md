@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [OpenConnector](https://github.com/oomol-lab/open-connector) - Self-hostable SaaS action gateway for AI agents, using Workers, D1, and R2 or KV with MCP, HTTP, and OpenAPI interfaces.
 
 ## Other
 
