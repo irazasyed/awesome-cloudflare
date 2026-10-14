@@ -19,6 +19,11 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
   - [AI](#ai)
 - [Other](#other)
 
+- [HS Codes Classifier](https://github.com/Alex-Dev-Web-C-DE/hs-seo) - AI customs classification. 500 HS code pages, 914 SEO pages, MCP server. 75.5% HS2 accuracy.
+- [Compliance Engine](https://github.com/Alex-Dev-Web-C-DE/compliance-engine) - Sanctions screening (OFAC/UK/EU/UN) + 11.7K PEP + 20K entities. D1 + R2 + KV.
+- [Watch Engine](https://github.com/Alex-Dev-Web-C-DE/watch-engine) - 203 currency + VAT + tariff + sanctions monitors. Daily cron. KV-optimized.
+- [Docs-to-JSON MCP](https://github.com/Alex-Dev-Web-C-DE/document-to-json-mcp) - Document extraction MCP server. 100+ types. Published to official MCP Registry.
+
 ## Community
 
 - [Forum](https://community.cloudflare.com)
