@@ -103,6 +103,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [SonicJS](https://github.com/lane711/sonicjs) - Edge-native headless CMS built on Workers, D1, and R2.
 
 ### Recipes
 
