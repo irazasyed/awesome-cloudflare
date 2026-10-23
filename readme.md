@@ -82,6 +82,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
+- [Quote and Sign](https://github.com/quoteandsign/quoteandsign) - Proposal and quote software with client-adjustable pricing and e-signature, running on Workers and D1.
 
 ## Workers
 
