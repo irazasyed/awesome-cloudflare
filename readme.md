@@ -104,6 +104,9 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
 
+- [flaredump](https://github.com/kanchingyg/flaredump) - Flight recorder for Cloudflare Workers: capture failed requests to `.cfreplay.json` and replay offline.
+- [wrangler-doctor](https://github.com/kanchingyg/wrangler-doctor) - Offline checker for wrangler configs, D1 migrations, and workerd contracts, plus local test harnesses.
+
 ### Recipes
 
 - [Examples Collection](https://github.com/cloudflare/worker-examples) - Collection of recipes.
