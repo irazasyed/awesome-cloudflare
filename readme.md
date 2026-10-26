@@ -31,6 +31,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Stack Exchange](https://stackexchange.com/search?q=cloudflare)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/cloudflare)
 - [Server Fault](https://serverfault.com/questions/tagged/cloudflare)
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Blog
 
