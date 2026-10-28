@@ -102,7 +102,8 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Worker App Kit](https://github.com/postlight/cloudflare-worker-app-kit) - Handy set of tools for creating, developing, testing, and deploying worker app.
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
-- [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [fetch-retry-jitter](https://github.com/Yearnless/fetch-retry-jitter) - Zero-dependency fetch wrapper with exponential backoff, full jitter, circuit breaker, request deduplication, Retry-After support, and per-attempt timeout. 1.6 KB gzip.
+- [env-assert-typed](https://github.com/Yearnless/env-assert-typed) - Zero-dependency typed environment variable parser with automatic TypeScript inference, coerce/refine/transform, factory defaults. 528 B gzip.
 
 ### Recipes
 
