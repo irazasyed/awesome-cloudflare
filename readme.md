@@ -103,6 +103,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
 - [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 - [Redirect Management](https://forwarding.app) - Generate redirect worker.
+- [Cloudflare Workers + D1 Starter Kit](https://cf-starter-kit-landing.pages.dev) - Starter with router, auth with brute-force lockout, D1 migrations and tests (paid, private repo).
 
 ### Recipes
 
