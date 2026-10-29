@@ -82,6 +82,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 - [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
+- [Trick or Take](https://github.com/zicojiao/trick-or-take) - Multiplayer Halloween candy heist web game with real-time Agora RTC voice chat, powered by Workers and Durable Objects.
 
 ## Workers
 
