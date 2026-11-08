@@ -151,6 +151,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ### AI
 
 - [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+- [Cloudflare Edge AI Readiness Worker](https://github.com/LBCron/cloudflare-edge-ai-readiness-worker) - Zero-dependency Cloudflare Worker that injects `/llms.txt`, RFC 9116 `/.well-known/security.txt`, JSON-LD metadata, and security headers at the edge.
 
 ## Other
 
