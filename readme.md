@@ -35,6 +35,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 ## Blog
 
 - [Official Blog](https://blog.cloudflare.com)
+- [Exia Blog](https://exia.de5.net/) - Notes from running a blog on the edge: hand-rolled SSR on Workers, D1 error forensics, and protocol teardowns.
 
 ## DNS
 
